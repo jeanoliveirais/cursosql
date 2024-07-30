@@ -28,7 +28,3 @@ Este repositório contém um curso completo de SQL, cobrindo desde o básico at�
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias e sugestões.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
