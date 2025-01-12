@@ -1,4 +1,4 @@
--- Crie um banco de dados para uma loja com as tabelas produtos, clientes e pedidos.
+ -- Crie um banco de dados para uma loja com as tabelas produtos, clientes e pedidos.
 
 -- Tabela Produtos
 CREATE TABLE produtos (
